@@ -1,7 +1,7 @@
-¿En qué deporte se usa tiza?, Billar Tenis Boxeo Karate, Billar
-¿Cuántas manos tiene un caballo?, 0 6 4 2, 2
-¿Qué instrumento musical tiene nombre y forma geométricos?, Triángulo Bombo Guitarra Flauta ,Triángulo
-¿Cuál es el limite de edad establecido para participar en los Juegos Olímpicos?, Ninguno 18 16 21, Ninguno 
-¿Qué órgano segrega la hormona insulina?, Páncreas Corazon Higado Pulmones, Páncreas 
-¿Con qué nombre firmaba Pablo Picasso sus pinturas?, Picasso Jaime Carlos Pedro, Picasso
-¿Qué lado de los libros suele tener los números pares?, Izquierdo Derecho, Izquierdo
+¿En qué deporte se usa tiza?, Billar Tenis Boxeo Karate,Billar
+¿Cuántas manos tiene un caballo?, 0 6 4 2,2
+¿Qué instrumento musical tiene nombre y forma geométricos?,Triángulo Bombo Guitarra Flauta ,Triángulo
+¿Cuál es el limite de edad establecido para participar en los Juegos Olímpicos?,Ninguno 18 16 21,Ninguno
+¿Qué órgano segrega la hormona insulina?,Páncreas Corazon Higado Pulmones,Páncreas
+¿Con qué nombre firmaba Pablo Picasso sus pinturas?,Picasso Jaime Carlos Pedro,Picasso
+¿Qué lado de los libros suele tener los números pares?, Izquierdo Derecho,Izquierdo
