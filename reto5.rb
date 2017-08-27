@@ -39,10 +39,11 @@ questions.each do |q|
     p q[0] #pregunta
     rs = q[1].split(' ')  #posibles respuestas
     print "Respuestas: "
+    puts
     rs.each_with_index do |item, index|
       print " #{index+1})#{item}"
+      puts
     end
-    p
     response = gets.chomp  
     if rs[response.to_i-1] == q[2]#respuesta
       p 'Respuesta correcta'
