@@ -54,4 +54,4 @@ questions.each do |q|
     end
   end
 end
-p "Hola #{player.name}, la cantidad de errores fue de: #{player.errors}"
+p "Hola #{player.name}, la cantidad de errores fue de: #{player.errors}, tu nivel es #{player.level}"
